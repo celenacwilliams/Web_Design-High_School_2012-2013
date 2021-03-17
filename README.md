@@ -1,4 +1,4 @@
-# high_school_web_design
+# Web_Design-High_School_2012-2013
 
 In high school, I took a web design class. While everyone else just used the WYSIWYG method, I looked at and learned the code of HTML, JavaScript, and CSS. If you want to view the website as a working website, download the folder and click on the index.html file.
 
